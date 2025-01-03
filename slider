@@ -44,17 +44,37 @@ body {
 
 
 .slide:first-child {
-  background: url("1.png") no-repeat
+  background: url("sunday.png") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(2) {
-  background: url("2.png") no-repeat
+  background: url("monday.png") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(3) {
-  background: url("3.png") no-repeat
+  background: url("tuesday.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(4) {
+  background: url("wednesday.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(5) {
+  background: url("thursday.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(6) {
+  background: url("friday.png") no-repeat
+    center top/cover;
+}
+
+.slide:nth-child(7) {
+  background: url("saturday.png") no-repeat
     center top/cover;
 }
 
